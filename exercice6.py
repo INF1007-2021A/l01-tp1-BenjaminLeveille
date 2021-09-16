@@ -29,7 +29,7 @@ def effectuerRotation(nombreComplexe, angle_rotation, trouverModule):
     multiplicateur = complex(math.cos(math.radians(angle_rotation)),math.sin(math.radians(angle_rotation)))
     nouveauNb = nombreComplexe*(multiplicateur)
     resultat = nouveauNb
-    #oaisdoubjiugb
+    #oaisdoubjiugbasd
 
     nouveauModule = trouverModule(resultat)
     nouvelAngle = trouverAngle(resultat)
