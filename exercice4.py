@@ -6,6 +6,7 @@ def calculerPosition(positionInitiale, vitesseInitiale, duree, vitesseFinale):
     vitesseInitiale_Ms= vitesseInitiale/3.6
     vitesseFinale_Ms= vitesseFinale/3.6
 
+
     # TODO faites les calculs intermediaires, vous pouvez initialiser des variables locales.
     acceleration = (vitesseFinale_Ms - vitesseInitiale_Ms)/duree
     # TODO calculer la position finale, assigner la valeur à la variable "positionFinale"

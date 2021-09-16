@@ -8,6 +8,7 @@ def decomposer(secondes):
     semaines =reste//(7*24*60*60)
     reste= reste%(7*24*60*60)
 
+
     # TODO: Assigner à la variable "jours" le nombre de jours restants
     jours = reste//(24*60*60)
     reste = reste%(24*60*60)

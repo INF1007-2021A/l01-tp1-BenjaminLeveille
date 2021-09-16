@@ -2,6 +2,7 @@ def fizzBuzz(n):
     # TODO imprimer la chaine de caractère appropriée avec la fonction print().
     #  Assigner ensuite la valeur à la variable resultat
 
+
     chaine=""
     if(n%3==0):
         chaine += "fizz"

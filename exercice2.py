@@ -8,6 +8,7 @@ def resoudreEquation(a, b, c):
     # TODO: Déterminer la condition (bool) qui correspond à aucune solution de l'équation et mettre la valeur dans la variable "naPasDeSolution"
     naPasDeSolution = delta<0
 
+
     if naPasDeSolution:
         # ces ligne de code seront executé si il y'a aucune racine
         # TODO: afficher sur l'écran "Aucune racine"
